@@ -1,0 +1,19 @@
+Some server-side code mixed in with other fun stuff. Meant to work with the client side code for authentication jawbone and fitbit. This code basically takes the user to the auth page and then takes the relevant info and stores it in the database. The server also needs to write fetchers for grabbing the additional data...
+
+This is a project that gamifies fitbit by taking the data provided by the API and turning it into a game.
+
+// store the day the user signed up
+
+// all from the day they signed up
+
+// sleep
+// active minutes per day
+// badges
+// daily workout log
+// steps
+// calories
+// elevation - optional field
+// sedentary minutes !!
+
+
+friendssss
